@@ -3,7 +3,7 @@ export default function Home() {
     <main style={{ display: "grid", gridTemplateColumns: "1fr 420px", minHeight: "100vh" }}>
       <section style={{ padding: "24px", background: "#f7f3eb" }}>
         <iframe
-          src="PASTE_FLOURISH_EMBED_URL_HERE"
+          src="https://public.flourish.studio/visualisation/29002393/embed"
           style={{ width: "100%", height: "90vh", border: "0" }}
           allowFullScreen
         />
